@@ -5,6 +5,7 @@ import java.util.LinkedList;
 
 public class Main {
     public static void main(String[] args) {
+        
     }
 
         public static boolean checkForPalindrome(String text){
@@ -27,4 +28,3 @@ public class Main {
 
 
     }
-    
